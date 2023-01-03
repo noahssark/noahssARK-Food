@@ -1,7 +1,7 @@
 
-# Ashushop
+# noahssARK - Food
 
-This project was generated with [Angular CLI] version 13.1.1.
+This project was generated with [Angular CLI] version 15.0.0
 
 ## Development server
 
